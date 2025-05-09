@@ -1,6 +1,8 @@
 # Stock Price Aggregation Microservice
 
-![Architecture Diagram]()
+<div align="center">
+  <img src="C:\Users\Shipr\Downloads\WhatsApp Image 2025-05-09 at 20.19.28_487fe443.jpg" alt="Architecture Diagram" width="650px">
+</div>
 
 ## Overview
 
@@ -114,7 +116,9 @@ Calculates the Pearson correlation coefficient between two stocks over the last 
 
 ## Architecture
 
-![Data Flow Diagram](images/data-flow.png)
+<div align="center">
+  <img src="images/data-flow.png" alt="Data Flow Diagram" width="600px">
+</div>
 
 The microservice uses a multi-layered architecture:
 
