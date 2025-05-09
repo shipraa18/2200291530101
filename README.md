@@ -1,9 +1,7 @@
 # Stock Price Aggregation Microservice
 
-<p align="center">
-  <img src="C:\Users\Shipr\Downloads\WhatsApp Image 2025-05-09 at 20.19.28_487fe443.jpg" width="400" alt="Image 1 Description">
-  <img src=""C:\Users\Shipr\Downloads\WhatsApp Image 2025-05-09 at 20.19.28_b04af1de.jpg"" width="400" alt="Image 2 Description">
-</p>
+![Screenshot of application](https://github.com/shipraa18/2200291530101/blob/main/images/WhatsApp%20Image%202025-05-09%20at%2020.19.28_487fe443.jpg)
+![Screenshot of application](https://github.com/shipraa18/2200291530101/blob/main/images/WhatsApp%20Image%202025-05-09%20at%2020.19.28_b04af1de.jpg)
 ## Overview
 
 This microservice provides real-time stock market insights by aggregating data from stock exchange APIs. It delivers critical metrics such as average stock prices and correlation between stocks to help market participants make informed decisions.
